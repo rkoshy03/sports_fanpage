@@ -1,0 +1,141 @@
+.lfc-store {
+  position: absolute;
+  top: 41.62px;
+  left: 188px;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-luckiest-guy);
+  color: var(--color-red);
+  display: inline-block;
+  width: 876px;
+  height: 95.85px;
+  transform: rotate(-0.37deg);
+  transform-origin: 0 0;
+}
+.frame-child {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 943px;
+  height: 11.16px;
+}
+.shop-exclusive-lfc {
+  position: absolute;
+  top: 147px;
+  left: 71px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-wendy-one);
+  color: var(--color-darkred);
+  display: inline-block;
+  width: 781px;
+  height: 33px;
+}
+.scrolld-1-icon {
+  position: absolute;
+  top: 1132px;
+  left: 414px;
+  width: 95px;
+  height: 71px;
+  object-fit: cover;
+}
+.roshan-koshy-saju1 {
+  position: absolute;
+  top: 12px;
+  left: 643px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-sura);
+  display: inline-block;
+  width: 346px;
+  height: 24px;
+}
+.diaz-1-icon {
+  position: absolute;
+  top: 618px;
+  left: 58px;
+  width: 168px;
+  height: 323px;
+  object-fit: cover;
+}
+.div,
+.div2,
+.div3,
+.lfc-nike-mens {
+  position: absolute;
+  display: inline-block;
+}
+.lfc-nike-mens {
+  top: 964px;
+  left: 63px;
+  color: inherit;
+  width: 163px;
+  height: 32px;
+  text-decoration: none;
+}
+.div,
+.div2,
+.div3 {
+  top: 1008px;
+  left: 89px;
+  width: 111px;
+  height: 26px;
+}
+.div2,
+.div3 {
+  top: 993px;
+  left: 779px;
+}
+.div3 {
+  top: 997px;
+  left: 406px;
+}
+.button-open-links-navigate4 {
+  position: relative;
+  width: 128px;
+  height: 37px;
+}
+.w-1-icon {
+  position: absolute;
+  top: 609px;
+  left: 351px;
+  width: 174.76px;
+  height: 323px;
+  object-fit: cover;
+}
+.lfc-liverbird-hoody,
+.lfc-nike-womens {
+  position: absolute;
+  top: 958px;
+  left: 352px;
+  display: inline-block;
+  width: 183px;
+  height: 22px;
+}
+.lfc-liverbird-hoody {
+  top: 957px;
+  left: 744px;
+}
+.image-1-icon,
+.w2-1-icon {
+  position: absolute;
+  top: 624px;
+  left: 715px;
+  width: 176px;
+  height: 317px;
+  object-fit: cover;
+}
+.image-1-icon {
+  top: 302px;
+  left: 41px;
+  width: 840px;
+  height: 321px;
+}
+.lfc-store-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1235px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-simonetta);
+}

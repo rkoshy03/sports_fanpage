@@ -1,0 +1,100 @@
+.lfc-gallery {
+  position: absolute;
+  top: 47.62px;
+  left: 158px;
+  font-size: var(--font-size-81xl);
+  display: inline-block;
+  width: 876px;
+  height: 95.85px;
+  transform: rotate(-0.37deg);
+  transform-origin: 0 0;
+}
+.frame-item,
+.get-all-latest {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 943px;
+  height: 11.16px;
+}
+.get-all-latest {
+  top: 161px;
+  left: 118px;
+  font-family: var(--font-wendy-one);
+  color: var(--color-darkred);
+  display: inline-block;
+  width: 781px;
+  height: 33px;
+}
+.scrolld-1-icon1 {
+  position: absolute;
+  top: 1132px;
+  left: 414px;
+  width: 95px;
+  height: 71px;
+  object-fit: cover;
+}
+.roshan-koshy-saju2 {
+  position: absolute;
+  top: 12px;
+  left: 643px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-sura);
+  color: var(--color-black);
+  display: inline-block;
+  width: 346px;
+  height: 24px;
+}
+.f1knuysxwaagioy-1-icon {
+  position: absolute;
+  top: 349px;
+  left: 264px;
+  width: 332px;
+  height: 415px;
+  object-fit: cover;
+}
+.f1ka3d4x0ackmew-1-icon,
+.f1kmzshxoaejy6b-1-icon {
+  position: absolute;
+  top: 353px;
+  left: 622px;
+  width: 277px;
+  height: 407px;
+  object-fit: cover;
+}
+.f1ka3d4x0ackmew-1-icon {
+  top: 345px;
+  left: 6px;
+  width: 232px;
+  height: 415px;
+}
+.exclusive-shots-from {
+  position: absolute;
+  top: 249px;
+  left: 27px;
+  font-weight: 900;
+  font-family: var(--font-simonetta);
+  color: var(--color-maroon);
+  display: inline-block;
+  width: 872px;
+  height: 80px;
+}
+.x360-1-icon {
+  position: absolute;
+  top: 789px;
+  left: 27px;
+  width: 890px;
+  height: 318px;
+  object-fit: cover;
+}
+.lfc-gallery-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1235px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-red);
+  font-family: var(--font-luckiest-guy);
+}

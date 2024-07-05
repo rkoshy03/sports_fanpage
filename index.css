@@ -1,0 +1,198 @@
+.lfc-logo-1 {
+  position: absolute;
+  top: 35px;
+  left: 38px;
+  width: 164px;
+  height: 310px;
+  object-fit: cover;
+}
+.lfczonecom,
+.your-one-and {
+  position: absolute;
+  display: inline-block;
+}
+.lfczonecom {
+  top: 97px;
+  left: 206px;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-luckiest-guy);
+  color: #ca0b0b;
+  width: 661px;
+  height: 87px;
+}
+.your-one-and {
+  top: 190px;
+  left: 191px;
+  font-family: var(--font-bubblegum-sans);
+  width: 947px;
+  height: 30px;
+}
+.klopp-1-icon {
+  position: absolute;
+  top: 434px;
+  left: 38px;
+  width: 310px;
+  height: 190px;
+  object-fit: cover;
+}
+.button-open-links-navigate,
+.button-open-links-navigate1 {
+  position: relative;
+  width: 106px;
+  height: 55px;
+}
+.button-open-links-navigate1 {
+  width: 142px;
+}
+.button-open-links-navigate2,
+.button-open-links-navigate3 {
+  position: relative;
+  width: 103px;
+  height: 55px;
+}
+.button-open-links-navigate3 {
+  width: 121px;
+}
+.desktop-1-child,
+.desktop-1-inner,
+.desktop-1-item,
+.frame-div {
+  position: absolute;
+  top: 30px;
+  left: 1234px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.desktop-1-inner,
+.desktop-1-item,
+.frame-div {
+  top: 1075px;
+  left: 949px;
+}
+.desktop-1-inner,
+.frame-div {
+  top: 1040px;
+  left: 999px;
+  width: 448px;
+  height: 389px;
+}
+.frame-div {
+  top: 1054px;
+  left: 1474px;
+  width: 100px;
+  height: 100px;
+}
+.i-cant-just {
+  margin: 0;
+}
+.i-cant-just-container,
+.latest-liverpool-news {
+  position: absolute;
+  top: 458px;
+  left: 368px;
+  display: inline-block;
+  width: 538px;
+  height: 140px;
+}
+.latest-liverpool-news {
+  top: 375px;
+  left: 43px;
+  color: var(--color-maroon);
+  width: 879px;
+  height: 44px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #b13535;
+  mix-blend-mode: darken;
+}
+.szobo-1-icon {
+  position: absolute;
+  top: 672px;
+  left: 38px;
+  width: 310px;
+  height: 186px;
+  object-fit: cover;
+}
+.szoboszlais-first-lfc {
+  position: absolute;
+  top: 683px;
+  left: 386px;
+  display: inline-block;
+  width: 481px;
+  height: 175px;
+}
+.doucore-1-icon {
+  position: absolute;
+  top: 877px;
+  left: 43px;
+  width: 305px;
+  height: 198px;
+  object-fit: cover;
+}
+.crystal-palace-have {
+  position: absolute;
+  top: 893px;
+  left: 390px;
+  display: inline-block;
+  width: 454px;
+  height: 147px;
+}
+.desktop-1-child1 {
+  position: absolute;
+  top: 1308px;
+  left: 893px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.line-icon,
+.rectangle-div {
+  position: absolute;
+  top: 1110px;
+  left: 0;
+  width: 943px;
+  height: 15px;
+}
+.rectangle-div {
+  top: 1164px;
+  left: 1px;
+  background-color: #d9d9d9;
+  width: 404px;
+  height: 34px;
+}
+.enter-your-email,
+.join-our-exclusive,
+.roshan-koshy-saju {
+  position: absolute;
+  top: 1120px;
+  left: 33px;
+  font-size: var(--font-size-6xl);
+}
+.join-our-exclusive,
+.roshan-koshy-saju {
+  top: 1143px;
+  left: 441px;
+  font-family: var(--font-swanky-and-moo-moo);
+  display: inline-block;
+  width: 481px;
+  height: 36px;
+}
+.roshan-koshy-saju {
+  top: 19px;
+  left: 576px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-sura);
+  width: 346px;
+  height: 16px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1235px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-simonetta);
+}

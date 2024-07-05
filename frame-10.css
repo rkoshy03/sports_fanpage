@@ -1,0 +1,128 @@
+.fan-zone {
+  position: absolute;
+  top: 53.62px;
+  left: 229px;
+  font-size: var(--font-size-81xl);
+  font-family: var(--font-luckiest-guy);
+  color: var(--color-red);
+  display: inline-block;
+  width: 876px;
+  height: 95.85px;
+  transform: rotate(-0.37deg);
+  transform-origin: 0 0;
+}
+.frame-inner {
+  position: absolute;
+  top: 224px;
+  left: 0;
+  width: 943px;
+  height: 11.16px;
+}
+.connect-with-fellow {
+  position: absolute;
+  top: 161px;
+  left: 118px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-wendy-one);
+  color: var(--color-darkred);
+  display: inline-block;
+  width: 781px;
+  height: 33px;
+}
+.scrolld-1-icon2 {
+  position: absolute;
+  top: 1107px;
+  left: 434px;
+  width: 91px;
+  height: 82px;
+  object-fit: cover;
+}
+.roshan-koshy-saju3 {
+  position: absolute;
+  top: 12px;
+  left: 643px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-sura);
+  display: inline-block;
+  width: 346px;
+  height: 24px;
+}
+.poll {
+  position: relative;
+  width: 284px;
+  height: 296px;
+}
+.fab-1-icon {
+  position: absolute;
+  top: 339px;
+  left: 25px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.fan-poll-voice,
+.redtv-get-live {
+  position: absolute;
+  top: 264px;
+  left: 30px;
+  display: inline-block;
+  width: 458px;
+  height: 75px;
+}
+.pollbutton {
+  position: absolute;
+ 
+  
+  top: 500px;
+  left: 30px;
+  
+  width: 458px;
+  height: 75px;
+}
+.redtv-get-live {
+  left: 500px;
+}
+.youtube-and-vimeo-video {
+  position: absolute;
+  padding-bottom: 300px;
+  bottom: 100px;
+  left: 20px;
+  width: 360px;
+  height: 220px;
+}
+.liverpool-fans-react {
+  position: absolute;
+  top: 559px;
+  left: 488px;
+  display: inline-block;
+  width: 372px;
+  height: 34px;
+}
+.blank-line {
+  margin: 0;
+}
+.liverpool-fans-react-container {
+  position: absolute;
+  top: 700px;
+  left: 488px;
+  display: inline-block;
+  width: 372px;
+  height: 164px;
+}
+.fan-zone-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1235px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-peralta);
+}
+.button {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}

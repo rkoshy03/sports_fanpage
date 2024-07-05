@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sura: Sura;
+  --font-swanky-and-moo-moo: "Swanky and Moo Moo";
+  --font-simonetta: Simonetta;
+  --font-bubblegum-sans: "Bubblegum Sans";
+  --font-luckiest-guy: "Luckiest Guy";
+  --font-wendy-one: "Wendy One";
+  --font-peralta: Peralta;
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-81xl: 100px;
+  --font-size-mini: 15px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-maroon: #5f0808;
+  --color-darkred: #8f0e0e;
+  --color-red: #d60707;
+}
